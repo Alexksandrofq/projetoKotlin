@@ -4,8 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.Aplicativo_Kotlin.myapplication"
+    namespace = "com.aplicativo.myapplication"
     compileSdk = 35
+
+    buildFeatures {
+        viewBinding = true
+    }
+
 
     defaultConfig {
         applicationId = "com.Aplicativo_Kotlin.myapplication"

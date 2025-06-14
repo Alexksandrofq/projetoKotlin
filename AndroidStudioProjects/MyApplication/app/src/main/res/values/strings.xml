@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="_08_00">08:00</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
 </resources>
