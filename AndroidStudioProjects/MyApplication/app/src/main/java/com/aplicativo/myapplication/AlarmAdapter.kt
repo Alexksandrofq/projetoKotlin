@@ -1,3 +1,4 @@
+// AlarmAdapter.kt
 package com.aplicativo.myapplication
 
 import android.view.LayoutInflater
